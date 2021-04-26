@@ -1,0 +1,6 @@
+name: OpenEuropa Library Comments
+description: OpenEuropa Library Drupal module template.
+package: OpenEuropa
+
+type: module
+core_version_requirement: ^8.8 || ^9
